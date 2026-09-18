@@ -26,17 +26,6 @@ Each scan is a `.nii.gz` volume. For each implant, clinicians annotated three la
 
 The implant mask covers the implant body and a surrounding region of ~7--9 mm, so that the model predicts the implant position solely from the surrounding oral anatomy (adjacent teeth, alveolar ridge, and bone density).
 
-## Code
-
-The `code/` directory contains the model definition, training, and evaluation scripts of the RegFreeNet framework:
-
-- `dilated_unet_reg_msg.py` — RegFreeNet network (multi-scale dilated perception + graph-based context aggregation + slope prediction branch)
-- `train_ddp_msg.py` — multi-GPU (DDP) training script
-- `clinical_metrics.py` — Entry/Apex/Angle/Center clinical metrics
-- `eval_single.py`, `eval_sanet.py` — evaluation scripts
-- `eval_canal_safety.py` — mandibular canal safety analysis
-- `extract_adj_msg.py` — graph adjacency visualization
-
 ## Citation
 
 If you use ImplantFairy in your research, please cite:
