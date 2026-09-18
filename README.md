@@ -2,8 +2,6 @@
 
 **A Registration-Free and Slope-aware Framework for CBCT-based Dental Implant Planning**
 
-*IEEE Transactions on Medical Imaging, Paper ID: TMI-2026-1309*
-
 ImplantFairy is the first comprehensive dental implant dataset constructed **without** pre-/post-operative scan registration. It contains **1,622 CBCT scans** (1,369 training / 253 test, split at the patient level) with voxel-level 3D annotations of implant position, collected from the Department of Stomatology at Shenzhen University General Hospital. All scans are acquired with a KaVo 3D eXam system at an isotropic voxel resolution of 0.2 mm.
 
 ## Download
