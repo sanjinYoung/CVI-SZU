@@ -9,7 +9,7 @@ ImplantFairy is the first comprehensive dental implant dataset constructed **wit
 | Split | Scans | Size | Access |
 |-------|-------|------|--------|
 | Test set | 253 | ~25 GB | [Google Drive](https://drive.google.com/drive/folders/1kDhMiK2ipAVcFJeOBE43OpJ0Eo2tebZe?usp=drive_link) |
-| Training set | 1,369 | ~135 GB | Upon request (academic, non-commercial use only). Email: `944285052@qq.com` |
+| Training set | 1,369 | ~135 GB | Upon request (academic, non-commercial use only). Email: `xinquanyang99@gmail.com` |
 
 To request the training set, please send an email with your affiliation and a brief description of the intended use. By requesting access, you agree to use the data solely for academic research and not for any commercial purpose.
 
